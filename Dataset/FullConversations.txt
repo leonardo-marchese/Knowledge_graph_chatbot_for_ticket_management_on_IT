@@ -1,0 +1,497 @@
+User: Ola, boa tarde
+Chatbot: Boa tarde, como posso te ajudar?
+User: Gostaria de solicitar um computador
+Chatbot: Certo, qual seria o modelo que você gostaria de solicitar?
+Chatbot:1 - Notebook Padrão
+Chatbot:2 - Computador Padrão
+Chatbot:3 - Notebook de alto desempenho
+Chatbot:4 - Computador de Alto Desempenho
+Chatbot:5 - Notebook Dobravel
+User: Notebook Padrão
+Chatbot: Certo, qual seria o motivo dessa solicitação?
+Chatbot:1 - Novo Funcionario
+Chatbot:2 - Mudanca de Funcao
+Chatbot:3 - Computador Compartilhado
+User: Novo Funcionario
+Chatbot: Você ja tem definido quem seria esse novo funcionario?
+User: Ainda não tenho definido, estou em fase de contratação.
+Chatbot: Esse funcionário irá trabalhar com atividades administrativas ou será operacional?
+User: Ele irá exercer atividades administrativa
+Chatbot: Certo, estou criando o chamado para você, um dos tecnicos irá te contatar futuramente para alinhar os detalhes.
+Chatbot: Posso te ajudar com mais alguma coisa?
+User: Não, por hoje seria isso mesmo, muito obrigado
+Chatbot: Eu que agradeço, tenha um otimo dia!
+Claro, aqui estão quatro variações da conversa mantendo o mesmo contexto, mas variando nas palavras e na forma de expressão:
+### Variação 1:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Em que posso te auxiliar?  
+User: Queria fazer uma solicitação de um computador.  
+Chatbot: Entendi. Qual modelo você está interessado em solicitar?  
+Chatbot:1 - Notebook convencional  
+Chatbot:2 - Computador tradicional  
+Chatbot:3 - Notebook de alta performance  
+Chatbot:4 - Computador potente  
+Chatbot:5 - Notebook flexível  
+User: Notebook convencional  
+Chatbot: Perfeito. Qual é o propósito dessa solicitação?  
+Chatbot:1 - Novo membro da equipe  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento do computador  
+User: Novo membro da equipe  
+Chatbot: Você já definiu quem será essa nova contratação?  
+User: Ainda não, estou em processo de seleção.  
+Chatbot: Esse colaborador terá funções administrativas ou operacionais?  
+User: Atividades administrativas.  
+Chatbot: Entendido. Estou registrando sua solicitação; um técnico entrará em contato para detalhes futuros.  
+Chatbot: Alguma outra coisa em que possa ajudar?  
+User: Não, isso é tudo por hoje. Muito obrigado!  
+Chatbot: Eu que agradeço. Tenha um excelente dia!
+### Variação 2:
+User: Boa tarde!  
+Chatbot: Boa tarde! Em que posso ser útil hoje?  
+User: Gostaria de requisitar um computador, por favor.  
+Chatbot: Claro! Qual modelo você pretende solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alta Performance  
+Chatbot:5 - Notebook Flexível  
+User: Notebook Padrão  
+Chatbot: Entendi. Qual o motivo dessa solicitação?  
+Chatbot:1 - Novo colaborador  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Uso compartilhado  
+User: Novo colaborador  
+Chatbot: Você já tem alguém em mente para essa nova posição?  
+User: Ainda não, estou no processo de contratação.  
+Chatbot: Esse funcionário vai exercer atividades administrativas ou operacionais?  
+User: Administrativas.  
+Chatbot: Entendido. Estou abrindo o chamado; um técnico entrará em contato em breve.  
+Chatbot: Posso ajudar com mais alguma coisa?  
+User: Não, por hoje está ótimo. Obrigado!  
+Chatbot: Eu que agradeço. Tenha um excelente dia!
+### Variação 3:
+User: Boa tarde!  
+Chatbot: Boa tarde! Como posso auxiliar você hoje?  
+User: Queria fazer uma requisição de um computador.  
+Chatbot: Certo. Qual modelo você deseja solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alta Performance  
+Chatbot:5 - Notebook Flexível  
+User: Notebook Padrão  
+Chatbot: Entendi. Qual é o propósito dessa solicitação?  
+Chatbot:1 - Novo integrante da equipe  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Uso compartilhado  
+User: Novo integrante da equipe 
+Chatbot: Você já tem alguém em vista para essa nova posição?  
+User: Ainda não, estou no processo de contratação.  
+Chatbot: Esse colaborador terá funções administrativas ou operacionais?  
+User: Administrativas.  
+Chatbot: Entendido. Estou registrando sua solicitação; um técnico entrará em contato em breve.  
+Chatbot: Posso ajudar com mais alguma coisa?  
+User: Não, por hoje está tudo. Muito obrigado!  
+Chatbot: Eu que agradeço. Tenha um ótimo dia!
+### Variação 4:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Em que posso ajudar hoje?  
+User: Gostaria de solicitar um computador, por favor.  
+Chatbot: Claro! Qual modelo você pretende solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alta Performance  
+Chatbot:5 - Notebook Flexível  
+User: Notebook Padrão 
+Chatbot: Certo. Qual seria o motivo dessa solicitação?  
+Chatbot:1 - Novo membro da equipe  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Uso compartilhado  
+User: Novo membro da equipe   
+Chatbot: Você já tem alguém em mente para essa nova posição?  
+User: Ainda não, estou em fase de contratação.  
+Chatbot: Esse colaborador terá funções administrativas ou operacionais?  
+User: Atividades administrativas.  
+Chatbot: Entendi. Estou criando o chamado para você; um dos técnicos entrará em contato para alinhar os detalhes.  
+Chatbot: Posso te ajudar com mais alguma coisa?  
+User: Não, por hoje seria isso mesmo. Muito obrigado!  
+Chatbot: Eu que agradeço. Tenha um ótimo dia!
+### Variação 1:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde, como posso ser útil hoje?  
+User: Queria requisitar um computador.  
+Chatbot: Certo, qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Computador Padrão  
+Chatbot: Entendi. Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já definiu quem será esse novo funcionário?  
+User: Ainda não, estou em processo de contratação.  
+Chatbot: Esse funcionário terá funções administrativas ou operacionais?  
+User: Atividades operacionais.  
+Chatbot: Compreendido. Vou verificar no sistema; para funcionários operacionais, apenas computadores compartilhados e tablets são permitidos. Existe algum disponível para uso desse funcionário atualmente?  
+User: Sim, há disponível.  
+Chatbot: Nesse caso, ele deverá usar o computador já disponível.  
+Chatbot: Posso ajudar com mais alguma coisa?  
+User: Agradeço, mas é só isso mesmo.  
+Chatbot: Eu que agradeço. Tenha uma ótima tarde!
+
+### Variação 2:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso te ajudar hoje?  
+User: Quero solicitar um computador.  
+Chatbot: Certo, qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão    
+Chatbot: Entendi. Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário   
+Chatbot: Você já tem alguém em mente para essa nova posição?  
+User: Ainda não, estou na fase de contratação.  
+Chatbot: Esse funcionário terá funções administrativas ou operacionais?  
+User: Operacionais.  
+Chatbot: Entendido. Vou verificar no sistema; para funcionários operacionais, apenas são permitidos computadores compartilhados e tablets. Há algum disponível para uso desse funcionário agora?  
+User: Sim, existe.  
+Chatbot: Nesse caso, ele deverá utilizar o computador já disponível.  
+Chatbot: Posso te ajudar com mais alguma coisa?  
+User: Agradeço, mas é isso por hoje.  
+Chatbot: Eu que agradeço. Tenha uma ótima tarde!
+
+### Variação 3:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Em que posso ser útil hoje?  
+User: Gostaria de solicitar um computador.  
+Chatbot: Certo, qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão  
+Chatbot: Entendi. Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já tem alguém em vista para essa nova posição?  
+User: Ainda não, estou em fase de contratação.  
+Chatbot: Esse funcionário terá funções administrativas ou operacionais?  
+User: Operacionais.  
+Chatbot: Compreendido. Vou verificar no sistema; para funcionários operacionais, apenas são permitidos computadores compartilhados e tablets. Existe algum disponível para uso desse funcionário?  
+User: Sim, há um disponível.  
+Chatbot: Nesse caso, ele deverá utilizar o computador já disponível.  
+Chatbot: Posso te ajudar com mais alguma coisa?  
+User: Agradeço, mas é só isso por hoje.  
+Chatbot: Eu que agradeço. Tenha uma ótima tarde!
+
+### Variação 4:
+User: Oi, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar?  
+User: Quero pedir um computador.  
+Chatbot: Entendi. Qual modelo você gostaria?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já tem alguém em mente para essa nova função?  
+User: Ainda não, estou em processo de contratação.  
+Chatbot: Esse funcionário terá funções administrativas ou operacionais?  
+User: Operacionais.  
+Chatbot: Entendi. Vou verificar no sistema; para funcionários operacionais, apenas são permitidos computadores compartilhados e tablets. Há algum disponível para esse funcionário?  
+User: Sim, tem um disponível.  
+Chatbot: Então ele deverá usar o computador já disponível.  
+Chatbot: Precisa de mais alguma coisa?  
+User: Não, obrigado.  
+Chatbot: Eu que agradeço. Tenha uma ótima tarde!
+### Variação 1:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar você hoje?  
+User: Queria requisitar um computador.  
+Chatbot: Certo, qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão  
+Chatbot: Entendi. Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já tem alguém definido para essa nova posição?  
+User: A solicitação seria para mim.  
+Chatbot: Um momento, vou verificar a disponibilidade no sistema.  
+Chatbot: Me desculpe, mas o sistema indica que você já utiliza o computador C000001. Não posso abrir um novo chamado. Posso ajudar com mais alguma coisa?  
+User: Mas esse computador pertence à minha antiga área, estou indo para uma nova área.  
+Chatbot: Entendi. Nesse caso, será necessário levar esse laptop para a nova área. Quando sua antiga posição for preenchida, seu líder deverá solicitar um novo computador.  
+User: Certo, vou conversar com meu líder atual. Obrigado pelas informações.  
+Chatbot: Eu que agradeço. Tenha uma ótima tarde!
+
+### Variação 2:
+User: Oi, boa tarde!  
+Chatbot: Boa tarde! Em que posso ser útil hoje?  
+User: Queria solicitar um computador.  
+Chatbot: Certo, qual modelo você deseja solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão   
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já definiu quem será esse novo funcionário?  
+User: A solicitação seria para mim.  
+Chatbot: Só um momento, vou verificar a disponibilidade no sistema.  
+Chatbot: Desculpe, mas consta que você já utiliza o computador C000001. Não posso prosseguir com a abertura do chamado. Posso ajudar mais em algo?  
+User: Esse computador é da minha antiga área, estou mudando para uma nova.  
+Chatbot: Ah, entendi. Nesse caso, será necessário levar esse laptop para a nova área. Assim que sua posição antiga for preenchida, seu líder poderá solicitar um novo computador.  
+User: Entendido, vou conversar com meu líder. Obrigado pelas informações.  
+Chatbot: Sem problemas. Estou à disposição. Tenha uma ótima tarde!
+
+### Variação 3:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso te ajudar?  
+User: Estou solicitando um computador.  
+Chatbot: Certo, qual modelo você gostaria?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário 
+Chatbot: Você já tem alguém em mente para essa nova posição?  
+User: A solicitação seria para mim.  
+Chatbot: Vou verificar a disponibilidade no sistema.  
+Chatbot: Lamento, mas consta que você já utiliza o computador C000001. Não posso prosseguir com a abertura do chamado. Posso ajudar com mais alguma coisa?  
+User: Esse computador é da minha antiga área, estou mudando para uma nova.  
+Chatbot: Entendi. Você precisará levar esse laptop para a nova área. Assim que sua antiga posição for preenchida, seu líder poderá solicitar um novo computador.  
+User: Compreendido, vou conversar com meu líder então. Obrigado pela ajuda.  
+Chatbot: Estou aqui para ajudar. Tenha uma ótima tarde!
+
+### Variação 4:
+User: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso te ajudar?  
+User: Queria pedir um computador.  
+Chatbot: Certo, qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Padrão  
+Chatbot:3 - Notebook de alto desempenho  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+User: Notebook Padrão  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo funcionário  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+User: Novo funcionário  
+Chatbot: Você já tem alguém definido para essa nova posição?  
+User: A solicitação seria para mim.  
+Chatbot: Só um momento, vou verificar a disponibilidade no sistema.  
+Chatbot: Desculpe, mas consta que você já usa o computador C000001. Não posso continuar com a abertura do chamado. Posso ajudar com mais alguma coisa?  
+User: Mas esse computador é da minha antiga área, estou mudando para uma nova.  
+Chatbot: Ah, entendi. Nesse caso, você precisa levar esse laptop para a nova área. Quando sua posição antiga for preenchida, seu líder poderá solicitar um novo computador.  
+
+### Variação 1:
+Usuário: Boa tarde!  
+Chatbot: Boa tarde, como posso auxiliar?  
+Usuário: Quero requisitar um laptop.  
+Chatbot: Certo, qual modelo você deseja?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alta performance  
+Chatbot:4 - Computador de Elevado Desempenho  
+Chatbot:5 - Notebook Flexível  
+Usuário: Computador Convencional  
+Chatbot: Qual é o propósito dessa solicitação?  
+Chatbot:1 - Novo membro da equipe  
+Chatbot:2 - Alteração de função  
+Chatbot:3 - Uso compartilhado  
+Usuário: Alteração de função  
+Chatbot: Já tem alguém decidido para essa nova posição?  
+Usuário: Ainda não, estou no processo de contratação.  
+Chatbot: Entendi. Para verificar a disponibilidade, preciso de um momento.  
+Chatbot: Desculpe, mas você já utiliza o laptop L000001. Não posso abrir um novo chamado. Como mais posso ajudar?  
+Usuário: Esse laptop pertence à minha antiga área, estou indo para uma nova.  
+Chatbot: Ah, compreendi. Você deve levar esse laptop para a nova área. Quando sua posição anterior for preenchida, seu superior poderá solicitar um novo laptop.  
+Usuário: Certo, obrigado pela informação.
+
+### Variação 2:
+Usuário: Boa tarde!  
+Chatbot: Olá! Em que posso ajudar?  
+Usuário: Solicitaria um computador, por gentileza.  
+Chatbot: Claro! Qual modelo você deseja solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - PC Padrão  
+Chatbot:3 - Notebook de alta performance  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+Usuário: PC Padrão  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Adição de um colaborador  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Uso compartilhado  
+Usuário: Mudança de função  
+Chatbot: Já tem alguém em vista para essa nova posição?  
+Usuário: Estou fazendo essa solicitação para mim.  
+Chatbot: Vou checar a disponibilidade.  
+Chatbot: Desculpe, mas consta que você já utiliza o computador C000001. Não posso avançar com a abertura do chamado. Como mais posso ajudar?  
+Usuário: Esse computador é da minha antiga área, estou mudando para uma nova.  
+Chatbot: Entendi. Nesse caso, você precisará levar esse laptop para a nova área. Assim que sua posição antiga for preenchida, seu superior poderá requisitar um novo computador.  
+Usuário: Ok, obrigado pela ajuda.
+
+### Variação 3:
+Usuário: Boa tarde!  
+Chatbot: Olá! Como posso ser útil?  
+Usuário: Gostaria de pedir um computador.  
+Chatbot: Certo, qual modelo você gostaria?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alta performance  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Flexível  
+Usuário: Computador de Alto Desempenho  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo integrante da equipe  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+Usuário: Mudança de função  
+Chatbot: Você já definiu quem seria esse novo funcionário?  
+Usuário: Estou requisitando para mim mesmo.  
+Chatbot: Vou verificar a disponibilidade.  
+Chatbot: Me desculpe, mas consta que você já utiliza o computador C000001. Não posso prosseguir com a abertura do chamado. Como mais posso ajudar?  
+Usuário: Esse computador pertence à minha antiga área, estou indo para uma nova.  
+Chatbot: Entendi. Nesse caso, você deverá levar esse laptop para a nova área. Quando sua posição anterior for preenchida, seu superior poderá requisitar um novo computador.  
+Usuário: Compreendido, obrigado pela ajuda.
+
+### Variação 4:
+Usuário: Olá, boa tarde!  
+Chatbot: Boa tarde! Em que posso ajudar?  
+Usuário: Gostaria de solicitar um computador, por favor.  
+Chatbot: Claro! Qual modelo você gostaria de solicitar?  
+Chatbot:1 - Notebook Padrão  
+Chatbot:2 - Computador Convencional  
+Chatbot:3 - Notebook de alta performance  
+Chatbot:4 - Computador de Alto Desempenho  
+Chatbot:5 - Notebook Dobrável  
+Usuário: Notebook Padrão  
+Chatbot: Qual é o motivo dessa solicitação?  
+Chatbot:1 - Novo integrante da equipe  
+Chatbot:2 - Mudança de função  
+Chatbot:3 - Compartilhamento de computador  
+Usuário: Compartilhamento de computador  
+Chatbot: Você já tem alguém em mente para essa nova posição?  
+Usuário: Estou solicitando para mim.  
+Chatbot: Deixe-me verificar a disponibilidade.  
+Chatbot: Desculpe, mas consta que você já utiliza o computador C000001. Não posso abrir um novo chamado. Como mais posso ajudar?  
+Usuário: Esse computador é da minha antiga área, estou mudando para uma nova.  
+Chatbot: Ah, entendi. Nesse caso, você precisará levar esse laptop para a nova área. Quando sua posição anterior for preenchida, seu superior poderá requisitar um novo computador.  
+Usuário: Entendido, obrigado.
+
+### Conversa 1:
+Usuário: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar você hoje?  
+Usuário: Estou precisando de um novo computador para trabalhar.  
+Chatbot: Claro, para qual finalidade você necessita desse computador?  
+Usuário: Sou novo na empresa e preciso de um notebook para desenvolver minhas atividades administrativas.  
+Chatbot: Entendi. Para prosseguir com a solicitação, preciso confirmar algumas informações. Você já passou pelo processo de integração da empresa e recebeu as orientações sobre a solicitação de equipamentos?  
+Usuário: Sim, já finalizei o processo de integração.  
+Chatbot: Perfeito! Vou iniciar o processo de requisição do notebook para você.
+
+### Conversa 2:
+Usuário: Boa tarde! Preciso de ajuda para solicitar um computador.  
+Chatbot: Boa tarde! Claro, posso te ajudar. Qual tipo de computador você gostaria de solicitar?  
+Usuário: Estou buscando um laptop de alto desempenho para trabalhar em um novo projeto na empresa.  
+Chatbot: Entendi, para qual área você está se movendo e quais serão as principais tarefas do projeto?  
+Usuário: Estou migrando para a equipe de desenvolvimento de software e precisarei de um computador potente para programação intensiva.  
+Chatbot: Ótimo! Antes de prosseguir, é importante garantir que você tenha as permissões necessárias e o suporte técnico para esse tipo de equipamento. Já alinhou isso com seu gerente ou equipe de TI?  
+Usuário: Sim, tudo está alinhado.  
+Chatbot: Perfeito! Vou iniciar o processo de solicitação do laptop de alto desempenho para você.
+
+### Conversa 3:
+Usuário: Oi, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar você hoje?  
+Usuário: Estou precisando de um computador para compartilhar entre minha equipe.  
+Chatbot: Entendi, esse compartilhamento será entre quantas pessoas e para quais finalidades?  
+Usuário: Será para um grupo de cinco pessoas, para atividades administrativas e de pesquisa.  
+Chatbot: Compreendido. Para proceder com essa solicitação, é necessário que o líder do grupo esteja ciente e autorize essa requisição. Já foi feito esse alinhamento?  
+Usuário: Sim, o líder do grupo está ciente e aprovou a solicitação.  
+Chatbot: Ótimo! Vou começar o processo de solicitação do computador compartilhado para a sua equipe.
+
+### Conversa 4:
+Usuário: Olá! Estou procurando um novo equipamento para trabalhar.  
+Chatbot: Olá! Claro, que tipo de equipamento você precisa?  
+Usuário: Estou buscando um computador padrão para um novo membro da equipe.  
+Chatbot: Entendi, para qual departamento o novo membro está ingressando e quais serão suas funções?  
+Usuário: Ele estará no departamento administrativo, realizando tarefas de suporte e organização de documentos.  
+Chatbot: Ótimo! Para avançarmos com a solicitação, é importante que o responsável pelo novo membro ou o RH tenham validado essa necessidade. Esse processo já foi realizado?  
+Usuário: Sim, está tudo validado.  
+Chatbot: Perfeito! Vou iniciar o processo de solicitação do computador padrão para o novo membro da equipe.
+
+Claro, vou aprofundar mais na conversa, buscando informações adicionais do perfil do usuário e justificando melhor a negação da solicitação.
+
+### Conversa:
+Usuário: Olá, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar você hoje?  
+Usuário: Estou precisando de um novo computador para trabalhar.  
+Chatbot: Claro, para qual finalidade você necessita desse computador?  
+Usuário: Preciso de um notebook para realizar minhas atividades administrativas na empresa.  
+Chatbot: Entendi. Para prosseguir com a solicitação, é importante que a equipe de RH valide a necessidade de equipamentos adicionais para novos colaboradores. Você já teve essa validação ou conversou com o RH sobre essa necessidade?  
+Usuário: Ainda não tive essa validação.  
+Chatbot: Compreendo. Normalmente, a alocação de equipamentos está vinculada a uma aprovação do RH para garantir que todos os procedimentos e políticas da empresa estejam sendo seguidos. Recomendo entrar em contato com o RH para alinhar essa necessidade antes de prosseguirmos com a requisição do equipamento.
+
+### Conversa:
+Usuário: Boa tarde! Preciso de ajuda para solicitar um computador.  
+Chatbot: Boa tarde! Claro, posso te ajudar. Qual tipo de computador você gostaria de solicitar?  
+Usuário: Estou buscando um laptop de alto desempenho para trabalhar em um novo projeto na empresa.  
+Chatbot: Entendi, para qual área você está se movendo e quais serão as principais tarefas do projeto?  
+Usuário: Estou migrando para a equipe de desenvolvimento de software e precisarei de um computador potente para programação intensiva.  
+Chatbot: Compreendo a importância de um equipamento adequado para o seu novo papel na empresa. Entretanto, a política atual de alocação de recursos não permite o fornecimento desse tipo de equipamento para a posição que você ocupará. Recomendo verificar se há alternativas que atendam às necessidades do projeto.
+
+### Conversa:
+Usuário: Oi, boa tarde!  
+Chatbot: Boa tarde! Como posso ajudar você hoje?  
+Usuário: Estou precisando de um computador para compartilhar entre minha equipe.  
+Chatbot: Entendi, esse compartilhamento será entre quantas pessoas e para quais finalidades?  
+Usuário: Será para um grupo de cinco pessoas, para atividades administrativas e de pesquisa.  
+Chatbot: Compreendo a necessidade de compartilhamento de recursos para otimizar o trabalho em equipe. No entanto, devido à capacidade atual dos recursos disponíveis, não estamos autorizados a fornecer equipamentos compartilhados para esse tipo de atividade. Isso pode afetar a produtividade de cada membro da equipe. Sugiro explorar alternativas de compartilhamento de informações online ou discutir com a equipe de TI para buscar soluções viáveis.
+
+### Conversa:
+Usuário: Olá! Estou procurando um novo equipamento para trabalhar.  
+Chatbot: Olá! Claro, que tipo de equipamento você precisa?  
+Usuário: Estou buscando um computador padrão para um novo membro da equipe.  
+Chatbot: Entendi, para qual departamento o novo membro está ingressando e quais serão suas funções?  
+Usuário: Ele estará no departamento administrativo, realizando tarefas de suporte e organização de documentos.  
+Chatbot: Compreendo a importância de ter os recursos adequados para a produtividade do novo colaborador. No entanto, devido às restrições orçamentárias para esse departamento no momento, não estamos autorizados a fornecer novos equipamentos. Sugiro buscar alternativas provisórias ou aguardar até que a situação orçamentária permita novas aquisições.
+

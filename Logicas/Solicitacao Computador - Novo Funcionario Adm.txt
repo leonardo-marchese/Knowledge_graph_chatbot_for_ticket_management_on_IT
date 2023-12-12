@@ -1,0 +1,46 @@
+User: Ola, boa tarde
+
+Chatbot: Boa tarde, como posso te ajudar?
+
+User: Gostaria de solicitar um computador
+
+Chatbot: Certo, qual seria o modelo que você gostaria de solicitar?
+
+1 - Notebook Padrão
+2 - Computador Padrão
+3 - Notebook de alto desempenho
+4 - Computador de Alto Desempenho
+5 - Notebook Dobravel
+
+User: 1
+
+Chatbot: Certo, qual seria o motivo dessa solicitação?
+
+1 - Novo Funcionario
+2 - Mudanca de Funcao
+3 - Computador Compartilhado
+
+User: 1
+
+Chatbot: Você ja tem definido quem seria esse novo funcionario?
+
+User: Ainda não tenho definido, estou em fase de contratação.
+
+Chatbot: Esse funcionário irá trabalhar com atividades administrativas ou será operacional?
+
+User: Ele irá exercer atividades administrativa
+
+Chatbot: Certo, estou criando o chamado para você, um dos tecnicos irá te contatar futuramente para alinhar os detalhes.
+
+Chatbot: Posso te ajudar com mais alguma coisa?
+
+User: Não, por hoje seria isso mesmo, muito obrigado
+
+Chatbot: Eu que agradeço, tenha um otimo dia!
+
+
+
+
+
+
+

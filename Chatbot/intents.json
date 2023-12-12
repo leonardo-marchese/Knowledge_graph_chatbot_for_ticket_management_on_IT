@@ -1,0 +1,47 @@
+{"intents": [
+        {"tag": "saudacao",
+         "patterns": ["Oi", "Ola", "Oi tudo bem:", "Tem alguem ai?", "Pode me ajudar", "Bom dia", "Boa Tarde"],
+         "responses": ["Ola, como posso te ajudar ?", "Oi, como podemos te ajudar?"],
+         "context_set": ""
+        },
+        {"tag": "despedida",
+         "patterns": ["Tchau", "Ate mais", "abracos", "Obrigado", "Obrigado pela ajuda", "Muito obrgado","Voce me ajudou"],
+         "responses": ["Até mais, obrigado pela visita!", "Tenha um otimo dia!"]
+        },
+        {"tag": "novo computador",
+         "patterns": ["Gostaria de solicitar um computador", "queria pedir um laptop", "estou com um funcionario novo e gostaria de solicitar um computador", "solicitar pc", "solicitar computador", "solicitar laptop", "solicitar desktop", "solicitar tablet"],
+         "responses": ["Certo, esse computador seria para voce ou outra pessoa?"]
+        },
+        {"tag": "solicitacao_individual",
+         "patterns": ["seria para mim"],
+         "responses": ["Qual seria o proposito dessa solicitacao? (Mudanca de funcao)"]
+        },
+        {"tag": "solicitacao_paraoutro",
+         "patterns": ["para outra pessoa"],
+         "responses": ["Poderia me informar o nome dessa pessoa? Caso ainda nao tenha, favor informar seu nome."]
+        },
+        {"tag": "nome_solicitadopara",
+         "patterns": ["Usuario 1, User 1, Usua 1, Use 1, Usuario, User, usuario, user, Usuario 10, Usuario 2, Usuario 20, usuario 1, usuario 10, usuario 2, usuario 20, usuario 3, Usuario 3, usuario 30, Usuario 30, usuario 4, Usuario 4, usuario 40, Usuario 40, usuario 5, Usuario 5, Usuario 50, usuario 50,usuario 6, Usuario 6, Usuario 60, usuario 60, usuario 7, Usuario 7, Usuario 70, usuario 70, usuario 8, Usuario 8, Usuario 80, usuario 80, usuario 9, Usuario 9, Usuario 90, usuario 90"],
+         "responses": ["Qual seria o proposito dessa solicitacao? (Novo funcionario, Mudanca de funcao)"]
+        },
+
+        {"tag": "proposito",
+         "patterns": ["Novo funcionario", "Mudanca de funcao"],
+         "responses": ["A nova funcao sera de Cargo engenharia, Cargo operacional, Cargo Administrativo ou Cargo Adminstrativo Fixo?"]
+        },
+        {"tag": "proposito2",
+         "patterns": ["Computador Compartilhado"],
+         "responses": ["Qual seria o proposito dessa solicitacao? (Novo funcionario, Mudanca de funcao)"]
+        },
+        {"tag": "funcao",
+         "patterns": ["Cargo engenharia", "Cargo operacional", "Cargo Administrativo", "Cargo Adminstrativo Fixo"],
+         "responses": ["certo, qual seria o modelo que gostaria de solicitar? (Computador Padrao, Notebook Padrao, Computador de Alto Desempenho,Notebook de alto desempenho,  Notebook Dobravel)"]
+         },
+        {"tag": "modelo",
+         "patterns": ["Computador Padrao", "Notebook Padrao", "Computador de Alto Desempenho","Notebook de alto desempenho",  "Notebook Dobravel"],
+         "responses": [
+             "certo, vou verificar a disponibilidade no sistema, so um minuto!"]
+         }
+
+   ]
+}

@@ -1,0 +1,42 @@
+User: Ola, boa tarde
+
+Chatbot: Boa tarde, como posso te ajudar?
+
+User: Gostaria de solicitar um computador
+
+Chatbot: Certo, qual seria o modelo que você gostaria de solicitar?
+
+1 - Notebook Padrão
+2 - Computador Padrão
+3 - Notebook de alto desempenho
+4 - Computador de Alto Desempenho
+5 - Notebook Dobravel
+
+User: 1
+
+Chatbot: Certo, qual seria o motivo dessa solicitação?
+
+1 - Novo Funcionario
+2 - Mudanca de Funcao
+3 - Computador Compartilhado
+
+User: 1
+
+Chatbot: Você ja tem definido quem seria esse novo funcionario?
+
+User: A solicitação seria para mim
+
+Chatbot: So um momento, vou verificar a disponibilidade no sistema
+
+Chatbot: Me desculpe, mas no sistema consta que você já utiliza o computador C000001, sendo assim não posso continuar com a abertura do chamado. Posso te ajudar com mais alguma coisa?
+
+User: Mas esse computador pertence a minha antiga area, estou indo para uma nova area.
+
+Chatbot: Nesse caso você precisará levar esse laptop junto a você para a nova area e assim que sua antiga posição for preenchida, o lider deverá solicitar um novo computador
+
+User: Ta certo então, irei conversar com meu lider atual, obrigado pelas informações
+
+Chatbot: Eu que agradeço, tenha uma otima tarde
+
+
+
